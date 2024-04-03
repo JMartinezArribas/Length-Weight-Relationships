@@ -1,0 +1,35 @@
+---
+title: "Length_Weight relationships"
+author: "Javier Martinez Arribas"
+date: "2023-09-08"
+output: html_document
+---
+
+ 
+ ![](figures/Regresion_poly.png)
+
+ 
+ ![](figures/Regresion_log.png)
+
+ 
+ ![](figures/Regresion_log_outliers.png)
+ 
+
+```{css echo=FALSE}
+
+.body{
+  display: flex;
+  justify-content: space-between;
+  float: left;
+  max-width: 100%;
+}
+.author, .date, .title{
+  display: none;
+}
+
+
+```
+
+
+
+
